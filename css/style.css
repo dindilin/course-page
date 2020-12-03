@@ -1,0 +1,101 @@
+.header {
+  background: linear-gradient(135deg,#6164d2,#7055c5 53%,#8342b4);
+  height: 50px;
+}
+
+
+.banner {
+  height: 300px;
+  background: linear-gradient(135deg,#6164d2,#7055c5 53%,#8342b4);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+.card {
+    padding: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    position: absolute;
+  	top: 70px;
+    margin-bottom: 200px;
+}
+.enrol {
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+	margin: 40px 20px 20px 0px;
+	padding: 20px;
+}
+.price {
+	font-size: 28px;
+	padding-right: 15px;
+	font-weight: bold;
+}
+.price2 {
+	color: #B5B5B5;
+	text-decoration: line-through;
+}
+.buttons {
+	padding-top: 30px;
+}
+.add {
+	margin: 30px 20px 30px 0px;
+	padding: 10px 30px;
+	margin-left: 0px;
+	color: #FF0055;
+	border-radius: 3px;
+	white-space: nowrap;
+	font-size: 14px;
+	display: inline-block;
+	border: 2px solid #FF0055;
+	font-weight: 800;
+	background-color: transparent;
+}
+.buy {
+	margin: 30px 20px 30px 0px;
+	padding: 10px 30px;
+	border-radius: 3px;
+	color: #FFf;
+	border-radius: 3px;
+	white-space: nowrap;
+	font-size: 14px;
+	display: inline-block;
+	border: 2px solid #00C28B;
+	font-weight: 800;
+	background-color: #00C28B;
+}
+.features {
+	margin-top: 30px;
+}
+.info {
+	padding: 15px 0px 15px 0px;
+}
+.icon-links {
+	padding: 0px 12px 0px 0px;
+	color: #00C28B;
+}
+.links {
+	color: #00C28B;
+}
+.links:hover {
+	color: #0E8B68;
+	text-decoration: none;
+}
+.icon {
+	size: 24px;
+	color: #888888;
+}
+.verticalLine {
+	 border-right: 1px solid #D5D5D5;
+  height: 80px;
+}
+h3 {
+	padding-bottom: 15px;
+}
+.stars {
+	color: #FBC329;
+}
+
+.data {
+	margin-top: 30px;
+}
+.information {
+	margin-top: 50px;
+}
